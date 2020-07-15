@@ -1,3 +1,3 @@
-![MapSEjY image](https://github.com/wenbody/MapSEjY/raw/master/icon.png)
-# MapSEjY
+![GridMapSEjY image](https://github.com/wenbody/GridMapSEjY/raw/master/icon.png)
+# GridMapSEjY
 Framework for SEG-Y 
